@@ -1,4 +1,5 @@
 # RG-RNN Experiment: Relevance-Gated Recurrent Neural Network (RG-RNN) Model
+[Kaggle](https://www.kaggle.com/code/ivanrazumov/rg-rnn-experiment-jena-climate-dataset)
 
 ## Introduction
 This notebook presents the Relevance-Gated Recurrent Neural Network (RG-RNN) model designed for time series data. The experiment aims to evaluate the capabilities of RG-RNN in predicting temperature based on historical climate data.
