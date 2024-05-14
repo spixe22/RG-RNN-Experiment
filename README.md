@@ -39,4 +39,6 @@ You can find more information about the dataset and download it from the followi
 ## Conclusion
 This notebook presents the implementation and experimental evaluation of the RG-RNN model for the task of temperature prediction based on historical climate data. The model demonstrates high accuracy and robustness, as evidenced by the R2 and RMSE metrics on the test set.
 
-## If you have any questions or feedback, please feel free to reach out!
+## If you have any questions or feedback, please feel free to reach out! Cause I don't know what I'm doing. 😅
+Email: spixe22@gmail.com
+TG: @[spixe37](https://t.me/spixe37)
