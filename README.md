@@ -31,6 +31,9 @@ The dataset used in this experiment is the "Jena Climate Dataset". This dataset 
 You can find more information about the dataset and download it from the following link:
 [Jena Climate Dataset](https://www.kaggle.com/datasets/stytch16/jena-climate-2009-2016)
 
+## Result plot
+![RG-RNN Result Plot](/images/rg-rnn-result-plot.jpeg)
+
 ### References
 - Max Planck Institute for Biogeochemistry. "Jena Climate Dataset."
 - Kaggle: [Jena Climate Dataset on Kaggle](https://www.kaggle.com/datasets/mnassrib/jena-climate/data)
