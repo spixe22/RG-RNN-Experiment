@@ -34,6 +34,10 @@ You can find more information about the dataset and download it from the followi
 ## Result plot
 ![RG-RNN Result Plot](/images/rg-rnn-result-plot.jpeg)
 
+## Estimations
+R2: 0.9828331829479982
+RMSE: 1.0610645
+
 ### References
 - Max Planck Institute for Biogeochemistry. "Jena Climate Dataset."
 - Kaggle: [Jena Climate Dataset on Kaggle](https://www.kaggle.com/datasets/mnassrib/jena-climate/data)
