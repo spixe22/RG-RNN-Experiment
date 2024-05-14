@@ -25,18 +25,19 @@ RG-RNN is a modified architecture of recurrent neural networks (RNN) that utiliz
 ## Diagram
 ![RG-RNN Diagram](/images/rg-rnn-diagram.svg)
 
-## Dataset
-The dataset used in this experiment is the "Jena Climate Dataset". This dataset contains 14 features such as temperature, pressure, humidity, and wind speed, recorded at 10-minute intervals over several years. The data was collected from the Max Planck Institute for Biogeochemistry.
-
-You can find more information about the dataset and download it from the following link:
-[Jena Climate Dataset](https://www.kaggle.com/datasets/stytch16/jena-climate-2009-2016)
-
 ## Result plot
 ![RG-RNN Result Plot](/images/rg-rnn-result-plot.jpeg)
 
 ## Estimations
 R2: 0.9828331829479982
 RMSE: 1.0610645
+
+## Dataset
+The dataset used in this experiment is the "Jena Climate Dataset". This dataset contains 14 features such as temperature, pressure, humidity, and wind speed, recorded at 10-minute intervals over several years. The data was collected from the Max Planck Institute for Biogeochemistry.
+
+You can find more information about the dataset and download it from the following link:
+[Jena Climate Dataset](https://www.kaggle.com/datasets/stytch16/jena-climate-2009-2016)
+
 
 ### References
 - Max Planck Institute for Biogeochemistry. "Jena Climate Dataset."
