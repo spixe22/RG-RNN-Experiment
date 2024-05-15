@@ -31,8 +31,8 @@ RG-RNN is a modified architecture of recurrent neural networks (RNN) that utiliz
 
 ## Estimations
 * Weights count: 1709
-* R2: 0.9828331829479982
-* RMSE: 1.0610645
+* R2: 0.9757375127455314
+* RMSE: 1.261434
 
 ## Dataset
 The dataset used in this experiment is the "Jena Climate Dataset". This dataset contains 14 features such as temperature, pressure, humidity, and wind speed, recorded at 10-minute intervals over several years. The data was collected from the Max Planck Institute for Biogeochemistry.
